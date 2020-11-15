@@ -39,9 +39,10 @@ Add the following to a HTML file in the head section:
     
         
 Include this at the bottom of your body website: 
+ 
+ `  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> 
+ <script src="js/main.js"></script>`
 
-` <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="js/main.js"></script>`
   
   Include images in the slider-inner section in the HTML file: 
   
